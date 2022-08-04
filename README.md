@@ -6,7 +6,7 @@
 **What was not done (and probably not expected):**
 1. No tests were written
 2. No clean architecture approach was used
-3. No makefile and configuration for docker, no CI/CD instructions etc.
+3. No makefile and configuration for docker, no .gitignore, no CI/CD instructions etc. - because it's not a production project.
 4. Init() function was not used for configuration initialization.
 
 P.S. I was not sure how meticulous to approach this small task :)
