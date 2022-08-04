@@ -13,7 +13,7 @@ P.S. I was not sure how meticulous to approach this small task :)
 
 **Output example**
 ```
-dsemenk@FVFGK3ERQ05N crystal_logic_task % go run main.go -race
+dsemenk@FVFGK3ERQ05N % go run main.go -race
 Receiver got message. Time: 2022-08-04 19:34:13.075537 +0300 EEST m=+2.006143001, text: l
 Receiver got message. Time: 2022-08-04 19:34:16.071565 +0300 EEST m=+5.002205793, text: xqDZDatzXZDRtFMsOBU
 Receiver got message. Time: 2022-08-04 19:34:21.075403 +0300 EEST m=+10.006099834, text: bbaHnlUVGAyliq
@@ -26,4 +26,4 @@ Receiver got message. Time: 2022-08-04 19:34:51.074462 +0300 EEST m=+40.00547183
 Receiver got message. Time: 2022-08-04 19:34:56.07431 +0300 EEST m=+45.005370293, text: TbtIISKPVPExfDoEajjAqXMKwUTBx
 Receiver got message. Time: 2022-08-04 19:35:01.072529 +0300 EEST m=+50.003639209, text: HdLkILnic
 Receiver got message. Time: 2022-08-04 19:35:06.074935 +0300 EEST m=+55.006094918, text: SwWhyjmFCNkeMBE
-dsemenk@FVFGK3ERQ05N crystal_logic_task % 
+dsemenk@FVFGK3ERQ05N % 
